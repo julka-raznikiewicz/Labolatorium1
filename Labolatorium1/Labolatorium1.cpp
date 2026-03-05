@@ -9,5 +9,6 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "hello world\n";
+    cout << "hElLo WoRlD\n";
 }
 
